@@ -1,0 +1,90 @@
+# .NET Core
+*.obj
+*.bin
+*.dll
+*.exe
+*.pdb
+*.user
+*.vscode/
+*.vs/
+*.suo
+*.cache
+*.csproj.user
+*.log
+*/bin/
+*/obj/
+*/out/
+project.lock.json
+.DS_Store
+
+# Visual Studio Code
+.vscode/
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+
+# NuGet
+*.nuget/
+*.nupkg
+*.paket.restore.log
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Visual Studio IntelliCode
+.vscode/.visualsettings/
+
+# Rider
+.idea/
+*.sln.iml
+*.suo
+*.user
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[0-9]/
+[Tt]est[Rr]esult*/
